@@ -1,7 +1,6 @@
 package com.example.stock.model;
 
 import lombok.Data;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
